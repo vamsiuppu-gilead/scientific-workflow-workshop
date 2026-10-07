@@ -3,7 +3,7 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 # Scientific workflow GitHub workshop
 
 This synthetic repository supports two workshops:
-
+test update for training purpose
 1. **GitHub Foundations for Scientific Work**
 2. **GitHub Copilot for Data Scientists — VS Code Agent mode**
 
